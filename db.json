@@ -7,6 +7,7 @@
 			"color": "white",
 			"price": 149.99,
 			"season": "new",
+      "category": "Basketball",
 			"image": "https://images.footlocker.com/is/image/FLEU/314103214004_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
@@ -16,6 +17,7 @@
 			"color": "blue",
 			"price": 129.99,
 			"season": "featured",
+      "category": "Basketball",
 			"image": "https://images.footlocker.com/is/image/FLEU/314104597704_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
@@ -25,6 +27,7 @@
 			"color": "purple",
 			"price": 89.99,
 			"season": "upcoming",
+      "category": "Basketball",
 			"image": "https://images.footlocker.com/is/image/FLEU/314104188504_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
@@ -34,6 +37,7 @@
 			"color": "black",
 			"price": 129.99,
 			"season": "new",
+      "category": "Basketball",
 			"image": "https://images.footlocker.com/is/image/FLEU/314102504504_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
@@ -43,6 +47,7 @@
 			"color": "pink",
 			"price": 99.99,
 			"season": "upcoming",
+      "category": "Basketball",
 			"image": "https://images.footlocker.com/is/image/FLEU/314310909404_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
@@ -52,6 +57,7 @@
 			"color": "black",
 			"price": 74.99,
 			"season": "featured",
+      "category": "Skate",
 			"image": "https://images.footlocker.com/is/image/FLEU/314550315304_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
@@ -61,6 +67,7 @@
 			"color": "black",
 			"price": 79.99,
 			"season": "featured",
+      "category": "Skate",
 			"image": "https://images.footlocker.com/is/image/FLEU/314521424904_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
@@ -70,6 +77,7 @@
 			"color": "white",
 			"price": 99.99,
 			"season": "new",
+      "category": "Tennis",
 			"image": "https://images.footlocker.com/is/image/FLEU/314310424404_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
@@ -79,6 +87,7 @@
 			"color": "blue",
 			"price": 69.99,
 			"season": "new",
+      "category": "hiking",
 			"image": "https://images.footlocker.com/is/image/FLEU/314214919004_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
@@ -88,6 +97,7 @@
 			"color": "red",
 			"price": 219.99,
 			"season": "upcoming",
+      "category": "hiking",
 			"image": "https://images.footlocker.com/is/image/FLEU/314626044904_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
@@ -97,6 +107,7 @@
 			"color": "grey",
 			"price": 69.99,
 			"season": "featured",
+      "category": "hiking",
 			"image": "https://images.footlocker.com/is/image/FLEU/314626023304_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
@@ -106,6 +117,7 @@
 			"color": "blue",
 			"price": 129.99,
 			"season": "new",
+      "category": "Basketball",
 			"image": "https://images.footlocker.com/is/image/FLEU/284100370804_01?wid=520&hei=520&fmt=png-alpha"
 		}
 	]
