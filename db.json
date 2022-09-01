@@ -33,22 +33,22 @@
 		{
 			"id": 4,
 			"size": [38, 39, 40, 45, 46],
-			"name": "adidas Dame 8",
+			"name": "Nike Air Max Uptempo",
 			"color": "black",
-			"price": 129.99,
+			"price": 179.99,
 			"season": "new",
       "category": "Basketball",
-			"image": "https://images.footlocker.com/is/image/FLEU/314102504504_01?wid=520&hei=520&fmt=png-alpha"
+			"image": "https://images.footlocker.com/is/image/FLEU/314101024504_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
 			"id": 5,
 			"size": [40, 41, 42],
-			"name": "adidas Harden Stepback 3",
-			"color": "pink",
-			"price": 99.99,
+			"name": "Lacoste L001",
+			"color": "white",
+			"price": 59.99,
 			"season": "upcoming",
-      "category": "Basketball",
-			"image": "https://images.footlocker.com/is/image/FLEU/314310909404_01?wid=520&hei=520&fmt=png-alpha"
+      "category": "Tennis",
+			"image": "https://images.footlocker.com/is/image/FLEU/314310976304_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
 			"id": 6,
