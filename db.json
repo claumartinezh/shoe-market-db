@@ -16,7 +16,7 @@
 			"color": "blue",
 			"price": 129.99,
 			"season": "featured",
-			"image": "https://images.footlocker.com/is/image/FLEU/314104597704_01?wid=519&hei=519&fmt=png-alpha"
+			"image": "https://images.footlocker.com/is/image/FLEU/314104597704_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
 			"id": 3,
@@ -34,7 +34,7 @@
 			"color": "black",
 			"price": 129.99,
 			"season": "new",
-			"image": "https://images.footlocker.com/is/image/FLEU/314102504504_01?wid=2000&hei=2000&fmt=png-alpha"
+			"image": "https://images.footlocker.com/is/image/FLEU/314102504504_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
 			"id": 5,
