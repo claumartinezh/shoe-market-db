@@ -12,11 +12,11 @@
 		{
 			"id": 2,
 			"size": [38, 39, 41, 46],
-			"name": "Air Jordan 1 Mid",
-			"color": "red",
+			"name": "Jordan 1 Mid",
+			"color": "blue",
 			"price": 129.99,
 			"season": "featured",
-			"image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/d63cb565-a8fa-4731-89c9-144b41591c4f/air-jordan-1-mid-zapatillas-XrWJMF.png"
+			"image": "https://images.footlocker.com/is/image/FLEU/314104597704_01?wid=519&hei=519&fmt=png-alpha"
 		},
 		{
 			"id": 3,
