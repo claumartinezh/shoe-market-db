@@ -9,7 +9,7 @@
 			"price": 149.99,
 			"season": "new",
 			"category": "Basketball",
-			"image": "https://github.com/claumartinezh/shoe-market-db/blob/main/images/Nike_Air_Force_1.webp"
+			"image": "https://images.footlocker.com/is/image/FLEU/314103214004_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
 			"id": 2,
@@ -20,7 +20,7 @@
 			"price": 129.99,
 			"season": "featured",
 			"category": "Basketball",
-			"image": "https://raw.githubusercontent.com/claumartinezh/shoe-market-db/main/images/Jordan_1_Mid.webp"
+			"image": "https://images.footlocker.com/is/image/FLEU/314104597704_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
 			"id": 3,
@@ -31,7 +31,7 @@
 			"price": 89.99,
 			"season": "upcoming",
 			"category": "Basketball",
-			"image": "https://github.com/claumartinezh/shoe-market-db/blob/main/images/Nike_Kyrie_8_Enlightenment.webp"
+			"image": "https://images.footlocker.com/is/image/FLEU/314104188504_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
 			"id": 4,
@@ -42,7 +42,7 @@
 			"price": 179.99,
 			"season": "new",
 			"category": "Basketball",
-			"image": "https://github.com/claumartinezh/shoe-market-db/blob/main/images/Nike_Air_Max_Uptempo.webp"
+			"image": "https://images.footlocker.com/is/image/FLEU/314101024504_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
 			"id": 5,
@@ -53,7 +53,7 @@
 			"price": 59.99,
 			"season": "upcoming",
 			"category": "Tennis",
-			"image": "https://github.com/claumartinezh/shoe-market-db/blob/main/images/Lacoste_L001.webp"
+			"image": "https://images.footlocker.com/is/image/FLEU/314310976304_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
 			"id": 6,
@@ -64,7 +64,7 @@
 			"price": 74.99,
 			"season": "featured",
 			"category": "Skate",
-			"image": "https://github.com/claumartinezh/shoe-market-db/blob/main/images/Converse_Chuck_Taylor_All_Star_High.webp"
+			"image": "https://images.footlocker.com/is/image/FLEU/314550315304_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
 			"id": 7,
@@ -75,7 +75,7 @@
 			"price": 79.99,
 			"season": "featured",
 			"category": "Skate",
-			"image": "https://github.com/claumartinezh/shoe-market-db/blob/main/images/Vans_Old_Skool.webp"
+			"image": "https://images.footlocker.com/is/image/FLEU/314521424904_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
 			"id": 8,
@@ -86,7 +86,7 @@
 			"price": 99.99,
 			"season": "new",
 			"category": "Tennis",
-			"image": "https://github.com/claumartinezh/shoe-market-db/blob/main/images/Lacoste_Twin_Serve.webp"
+			"image": "https://images.footlocker.com/is/image/FLEU/314310424404_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
 			"id": 9,
@@ -97,7 +97,7 @@
 			"price": 69.99,
 			"season": "new",
 			"category": "hiking",
-			"image": "https://github.com/claumartinezh/shoe-market-db/blob/main/images/Salomon_Xa_Cover.webp"
+			"image": "https://images.footlocker.com/is/image/FLEU/314214919004_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
 			"id": 10,
@@ -108,7 +108,7 @@
 			"price": 219.99,
 			"season": "upcoming",
 			"category": "hiking",
-			"image": "https://github.com/claumartinezh/shoe-market-db/blob/main/images/Timberland_6_Inch.webp"
+			"image": "https://images.footlocker.com/is/image/FLEU/314626044904_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
 			"id": 11,
@@ -119,7 +119,7 @@
 			"price": 69.99,
 			"season": "featured",
 			"category": "hiking",
-			"image": "https://github.com/claumartinezh/shoe-market-db/blob/main/images/Timberland_Field_Trekker.webp"
+			"image": "https://images.footlocker.com/is/image/FLEU/314626023304_01?wid=520&hei=520&fmt=png-alpha"
 		},
 		{
 			"id": 12,
@@ -130,7 +130,7 @@
 			"price": 129.99,
 			"season": "new",
 			"category": "Basketball",
-			"image": "https://github.com/claumartinezh/shoe-market-db/blob/main/images/Under_Armour_Curry_9_We_Believe.webp"
+			"image": "https://images.footlocker.com/is/image/FLEU/284100370804_01?wid=520&hei=520&fmt=png-alpha"
 		}
 	]
 }
