@@ -20,7 +20,7 @@
 			"price": 129.99,
 			"season": "featured",
 			"category": "Basketball",
-			"image": "https://images.footlocker.com/is/image/FLEU/314104597704_01?wid=520&hei=520&fmt=png-alpha"
+			"image": "https://raw.githubusercontent.com/claumartinezh/shoe-market-db/main/images/Jordan_1_Mid.webp"
 		},
 		{
 			"id": 3,
