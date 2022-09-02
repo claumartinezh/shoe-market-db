@@ -9,7 +9,9 @@
 			"price": 149.99,
 			"season": "new",
 			"category": "Basketball",
-			"image": "https://images.footlocker.com/is/image/FLEU/314103214004_01?wid=520&hei=520&fmt=png-alpha"
+			"image": "https://images.footlocker.com/is/image/FLEU/314103214004_01?wid=520&hei=520&fmt=png-alpha",
+      "image-side": "https://images.footlocker.com/is/image/FLEU/314103214004_02?wid=500&hei=500&fmt=png-alpha",
+      "image-behind": "https://images.footlocker.com/is/image/FLEU/314103214004_02?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 2,
@@ -20,7 +22,9 @@
 			"price": 129.99,
 			"season": "featured",
 			"category": "Basketball",
-			"image": "https://images.footlocker.com/is/image/FLEU/314104597704_01?wid=520&hei=520&fmt=png-alpha"
+			"image": "https://images.footlocker.com/is/image/FLEU/315346214802_01?wid=500&hei=500&fmt=png-alpha",
+      "image-side": "https://images.footlocker.com/is/image/FLEU/315346214802_02?wid=500&hei=500&fmt=png-alpha",
+      "image-behind": "https://images.footlocker.com/is/image/FLEU/315346214802_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 3,
@@ -31,7 +35,9 @@
 			"price": 89.99,
 			"season": "upcoming",
 			"category": "Basketball",
-			"image": "https://images.footlocker.com/is/image/FLEU/314104188504_01?wid=520&hei=520&fmt=png-alpha"
+			"image": "https://images.footlocker.com/is/image/FLEU/314104188504_01?wid=520&hei=520&fmt=png-alpha",
+      "image-side": "https://images.footlocker.com/is/image/FLEU/314104188504_02?wid=500&hei=500&fmt=png-alpha",
+      "image-behind": "https://images.footlocker.com/is/image/FLEU/314104188504_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 4,
@@ -42,7 +48,9 @@
 			"price": 179.99,
 			"season": "new",
 			"category": "Basketball",
-			"image": "https://images.footlocker.com/is/image/FLEU/314101024504_01?wid=520&hei=520&fmt=png-alpha"
+			"image": "https://images.footlocker.com/is/image/FLEU/314101024504_01?wid=520&hei=520&fmt=png-alpha",
+      "image-side": "https://images.footlocker.com/is/image/FLEU/314101024504_02?wid=500&hei=500&fmt=png-alpha",
+      "image-behind": "https://images.footlocker.com/is/image/FLEU/314101024504_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 5,
@@ -53,18 +61,22 @@
 			"price": 59.99,
 			"season": "upcoming",
 			"category": "Tennis",
-			"image": "https://images.footlocker.com/is/image/FLEU/314310976304_01?wid=520&hei=520&fmt=png-alpha"
+			"image": "https://images.footlocker.com/is/image/FLEU/314310976304_01?wid=520&hei=520&fmt=png-alpha",
+      "image-side": "https://images.footlocker.com/is/image/FLEU/314310976304_02?wid=500&hei=500&fmt=png-alpha",
+      "image-behind": "https://images.footlocker.com/is/image/FLEU/314310976304_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 6,
 			"size": [39, 41, 42, 43],
 			"name": "Converse Chuck Taylor All Star High",
 			"brand": "Converse",
-			"color": "black",
+			"color": "blue",
 			"price": 74.99,
 			"season": "featured",
 			"category": "Skate",
-			"image": "https://images.footlocker.com/is/image/FLEU/314550315304_01?wid=520&hei=520&fmt=png-alpha"
+			"image": "https://images.footlocker.com/is/image/FLEU/314550315304_01?wid=520&hei=520&fmt=png-alpha",
+      "image-side": "https://images.footlocker.com/is/image/FLEU/314550315304_02?wid=500&hei=500&fmt=png-alpha",
+      "image-behind": "https://images.footlocker.com/is/image/FLEU/314550315304_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 7,
@@ -75,7 +87,9 @@
 			"price": 79.99,
 			"season": "featured",
 			"category": "Skate",
-			"image": "https://images.footlocker.com/is/image/FLEU/314521424904_01?wid=520&hei=520&fmt=png-alpha"
+			"image": "https://images.footlocker.com/is/image/FLEU/314521424904_01?wid=520&hei=520&fmt=png-alpha",
+      "image-side": "https://images.footlocker.com/is/image/FLEU/314521424904_02?wid=500&hei=500&fmt=png-alpha",
+      "image-behind": "https://images.footlocker.com/is/image/FLEU/314521424904_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 8,
@@ -86,7 +100,9 @@
 			"price": 99.99,
 			"season": "new",
 			"category": "Tennis",
-			"image": "https://images.footlocker.com/is/image/FLEU/314310424404_01?wid=520&hei=520&fmt=png-alpha"
+			"image": "https://images.footlocker.com/is/image/FLEU/314310424404_01?wid=520&hei=520&fmt=png-alpha",
+      "image-side": "https://images.footlocker.com/is/image/FLEU/314310424404_02?wid=500&hei=500&fmt=png-alpha",
+      "image-behind": "https://images.footlocker.com/is/image/FLEU/314310424404_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 9,
@@ -97,7 +113,9 @@
 			"price": 69.99,
 			"season": "new",
 			"category": "hiking",
-			"image": "https://images.footlocker.com/is/image/FLEU/314214919004_01?wid=520&hei=520&fmt=png-alpha"
+			"image": "https://images.footlocker.com/is/image/FLEU/314214919004_01?wid=520&hei=520&fmt=png-alpha",
+      "image-side": "https://images.footlocker.com/is/image/FLEU/314214919004_02?wid=500&hei=500&fmt=png-alpha",
+      "image-behind": "https://images.footlocker.com/is/image/FLEU/314214919004_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 10,
@@ -108,29 +126,35 @@
 			"price": 219.99,
 			"season": "upcoming",
 			"category": "hiking",
-			"image": "https://images.footlocker.com/is/image/FLEU/314626044904_01?wid=520&hei=520&fmt=png-alpha"
+			"image": "https://images.footlocker.com/is/image/FLEU/314626044904_01?wid=520&hei=520&fmt=png-alpha",
+      "image-side": "https://images.footlocker.com/is/image/FLEU/314626044904_02?wid=500&hei=500&fmt=png-alpha",
+      "image-behind": "https://images.footlocker.com/is/image/FLEU/314626044904_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 11,
 			"size": [38, 39, 40, 42, 44, 46],
 			"name": "Timberland Field Trekker",
 			"brand": "Timberland",
-			"color": "grey",
+			"color": "black",
 			"price": 69.99,
 			"season": "featured",
 			"category": "hiking",
-			"image": "https://images.footlocker.com/is/image/FLEU/314626023304_01?wid=520&hei=520&fmt=png-alpha"
+			"image": "https://images.footlocker.com/is/image/FLEU/314625472304_01?wid=500&hei=500&fmt=png-alpha",
+      "image-side": "https://images.footlocker.com/is/image/FLEU/314625472304_02?wid=500&hei=500&fmt=png-alpha",
+      "image-behind": "https://images.footlocker.com/is/image/FLEU/314625472304_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 12,
 			"size": [40, 42, 44],
 			"name": "Under Armour Curry 9 We Believe",
 			"brand": "Under Armour",
-			"color": "blue",
+			"color": "yellow",
 			"price": 129.99,
 			"season": "new",
 			"category": "Basketball",
-			"image": "https://images.footlocker.com/is/image/FLEU/284100370804_01?wid=520&hei=520&fmt=png-alpha"
+			"image": "https://images.footlocker.com/is/image/FLEU/314103984804_01?wid=500&hei=500&fmt=png-alpha",
+      "image-side": "https://images.footlocker.com/is/image/FLEU/314103984804_02?wid=500&hei=500&fmt=png-alpha",
+      "image-behind": "https://images.footlocker.com/is/image/FLEU/314103984804_03?wid=500&hei=500&fmt=png-alpha"
 		}
 	]
 }
