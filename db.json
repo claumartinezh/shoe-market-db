@@ -10,8 +10,8 @@
 			"season": "new",
 			"category": "Basketball",
 			"image": "https://images.footlocker.com/is/image/FLEU/314103214004_01?wid=520&hei=520&fmt=png-alpha",
-      "image-side": "https://images.footlocker.com/is/image/FLEU/314103214004_02?wid=500&hei=500&fmt=png-alpha",
-      "image-behind": "https://images.footlocker.com/is/image/FLEU/314103214004_02?wid=500&hei=500&fmt=png-alpha"
+			"image-side": "https://images.footlocker.com/is/image/FLEU/314103214004_02?wid=500&hei=500&fmt=png-alpha",
+			"image-behind": "https://images.footlocker.com/is/image/FLEU/314103214004_02?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 2,
@@ -23,8 +23,8 @@
 			"season": "featured",
 			"category": "Basketball",
 			"image": "https://images.footlocker.com/is/image/FLEU/315346214802_01?wid=500&hei=500&fmt=png-alpha",
-      "image-side": "https://images.footlocker.com/is/image/FLEU/315346214802_02?wid=500&hei=500&fmt=png-alpha",
-      "image-behind": "https://images.footlocker.com/is/image/FLEU/315346214802_03?wid=500&hei=500&fmt=png-alpha"
+			"image-side": "https://images.footlocker.com/is/image/FLEU/315346214802_02?wid=500&hei=500&fmt=png-alpha",
+			"image-behind": "https://images.footlocker.com/is/image/FLEU/315346214802_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 3,
@@ -36,8 +36,8 @@
 			"season": "upcoming",
 			"category": "Basketball",
 			"image": "https://images.footlocker.com/is/image/FLEU/314104188504_01?wid=520&hei=520&fmt=png-alpha",
-      "image-side": "https://images.footlocker.com/is/image/FLEU/314104188504_02?wid=500&hei=500&fmt=png-alpha",
-      "image-behind": "https://images.footlocker.com/is/image/FLEU/314104188504_03?wid=500&hei=500&fmt=png-alpha"
+			"image-side": "https://images.footlocker.com/is/image/FLEU/314104188504_02?wid=500&hei=500&fmt=png-alpha",
+			"image-behind": "https://images.footlocker.com/is/image/FLEU/314104188504_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 4,
@@ -49,8 +49,8 @@
 			"season": "new",
 			"category": "Basketball",
 			"image": "https://images.footlocker.com/is/image/FLEU/314101024504_01?wid=520&hei=520&fmt=png-alpha",
-      "image-side": "https://images.footlocker.com/is/image/FLEU/314101024504_02?wid=500&hei=500&fmt=png-alpha",
-      "image-behind": "https://images.footlocker.com/is/image/FLEU/314101024504_03?wid=500&hei=500&fmt=png-alpha"
+			"image-side": "https://images.footlocker.com/is/image/FLEU/314101024504_02?wid=500&hei=500&fmt=png-alpha",
+			"image-behind": "https://images.footlocker.com/is/image/FLEU/314101024504_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 5,
@@ -62,8 +62,8 @@
 			"season": "upcoming",
 			"category": "Tennis",
 			"image": "https://images.footlocker.com/is/image/FLEU/314310976304_01?wid=520&hei=520&fmt=png-alpha",
-      "image-side": "https://images.footlocker.com/is/image/FLEU/314310976304_02?wid=500&hei=500&fmt=png-alpha",
-      "image-behind": "https://images.footlocker.com/is/image/FLEU/314310976304_03?wid=500&hei=500&fmt=png-alpha"
+			"image-side": "https://images.footlocker.com/is/image/FLEU/314310976304_02?wid=500&hei=500&fmt=png-alpha",
+			"image-behind": "https://images.footlocker.com/is/image/FLEU/314310976304_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 6,
@@ -75,8 +75,8 @@
 			"season": "featured",
 			"category": "Skate",
 			"image": "https://images.footlocker.com/is/image/FLEU/314550315304_01?wid=520&hei=520&fmt=png-alpha",
-      "image-side": "https://images.footlocker.com/is/image/FLEU/314550315304_02?wid=500&hei=500&fmt=png-alpha",
-      "image-behind": "https://images.footlocker.com/is/image/FLEU/314550315304_03?wid=500&hei=500&fmt=png-alpha"
+			"image-side": "https://images.footlocker.com/is/image/FLEU/314550315304_02?wid=500&hei=500&fmt=png-alpha",
+			"image-behind": "https://images.footlocker.com/is/image/FLEU/314550315304_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 7,
@@ -88,8 +88,8 @@
 			"season": "featured",
 			"category": "Skate",
 			"image": "https://images.footlocker.com/is/image/FLEU/314521424904_01?wid=520&hei=520&fmt=png-alpha",
-      "image-side": "https://images.footlocker.com/is/image/FLEU/314521424904_02?wid=500&hei=500&fmt=png-alpha",
-      "image-behind": "https://images.footlocker.com/is/image/FLEU/314521424904_03?wid=500&hei=500&fmt=png-alpha"
+			"image-side": "https://images.footlocker.com/is/image/FLEU/314521424904_02?wid=500&hei=500&fmt=png-alpha",
+			"image-behind": "https://images.footlocker.com/is/image/FLEU/314521424904_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 8,
@@ -101,8 +101,8 @@
 			"season": "new",
 			"category": "Tennis",
 			"image": "https://images.footlocker.com/is/image/FLEU/314310424404_01?wid=520&hei=520&fmt=png-alpha",
-      "image-side": "https://images.footlocker.com/is/image/FLEU/314310424404_02?wid=500&hei=500&fmt=png-alpha",
-      "image-behind": "https://images.footlocker.com/is/image/FLEU/314310424404_03?wid=500&hei=500&fmt=png-alpha"
+			"image-side": "https://images.footlocker.com/is/image/FLEU/314310424404_02?wid=500&hei=500&fmt=png-alpha",
+			"image-behind": "https://images.footlocker.com/is/image/FLEU/314310424404_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 9,
@@ -114,8 +114,8 @@
 			"season": "new",
 			"category": "hiking",
 			"image": "https://images.footlocker.com/is/image/FLEU/314214919004_01?wid=520&hei=520&fmt=png-alpha",
-      "image-side": "https://images.footlocker.com/is/image/FLEU/314214919004_02?wid=500&hei=500&fmt=png-alpha",
-      "image-behind": "https://images.footlocker.com/is/image/FLEU/314214919004_03?wid=500&hei=500&fmt=png-alpha"
+			"image-side": "https://images.footlocker.com/is/image/FLEU/314214919004_02?wid=500&hei=500&fmt=png-alpha",
+			"image-behind": "https://images.footlocker.com/is/image/FLEU/314214919004_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 10,
@@ -127,8 +127,8 @@
 			"season": "upcoming",
 			"category": "hiking",
 			"image": "https://images.footlocker.com/is/image/FLEU/314626044904_01?wid=520&hei=520&fmt=png-alpha",
-      "image-side": "https://images.footlocker.com/is/image/FLEU/314626044904_02?wid=500&hei=500&fmt=png-alpha",
-      "image-behind": "https://images.footlocker.com/is/image/FLEU/314626044904_03?wid=500&hei=500&fmt=png-alpha"
+			"image-side": "https://images.footlocker.com/is/image/FLEU/314626044904_02?wid=500&hei=500&fmt=png-alpha",
+			"image-behind": "https://images.footlocker.com/is/image/FLEU/314626044904_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 11,
@@ -140,8 +140,8 @@
 			"season": "featured",
 			"category": "hiking",
 			"image": "https://images.footlocker.com/is/image/FLEU/314625472304_01?wid=500&hei=500&fmt=png-alpha",
-      "image-side": "https://images.footlocker.com/is/image/FLEU/314625472304_02?wid=500&hei=500&fmt=png-alpha",
-      "image-behind": "https://images.footlocker.com/is/image/FLEU/314625472304_03?wid=500&hei=500&fmt=png-alpha"
+			"image-side": "https://images.footlocker.com/is/image/FLEU/314625472304_02?wid=500&hei=500&fmt=png-alpha",
+			"image-behind": "https://images.footlocker.com/is/image/FLEU/314625472304_03?wid=500&hei=500&fmt=png-alpha"
 		},
 		{
 			"id": 12,
@@ -153,8 +153,8 @@
 			"season": "new",
 			"category": "Basketball",
 			"image": "https://images.footlocker.com/is/image/FLEU/314103984804_01?wid=500&hei=500&fmt=png-alpha",
-      "image-side": "https://images.footlocker.com/is/image/FLEU/314103984804_02?wid=500&hei=500&fmt=png-alpha",
-      "image-behind": "https://images.footlocker.com/is/image/FLEU/314103984804_03?wid=500&hei=500&fmt=png-alpha"
+			"image-side": "https://images.footlocker.com/is/image/FLEU/314103984804_02?wid=500&hei=500&fmt=png-alpha",
+			"image-behind": "https://images.footlocker.com/is/image/FLEU/314103984804_03?wid=500&hei=500&fmt=png-alpha"
 		}
 	]
 }
