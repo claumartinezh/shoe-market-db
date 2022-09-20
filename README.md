@@ -1,8 +1,8 @@
-<h1 align="center">shoe-market-db</h1>
+<h1 align="center">training-db</h1>
 
-# Example shoes data base
+# Example databases
 
-This is an example of a shoe data base for fake API consuming.
+These are multiple examples of databases for fake API consuming.
 
 ## How to use
 
@@ -10,7 +10,7 @@ This is an example of a shoe data base for fake API consuming.
 
 ```js
 fetch(
-	'https://my-json-server.typicode.com/claumartinezh/shoe-market-db/shoes'
+	'https://my-json-server.typicode.com/claumartinezh/training-db/shoes'
 ).then((response) => {
 	//do something
 });
