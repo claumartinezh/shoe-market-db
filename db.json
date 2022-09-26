@@ -156,7 +156,7 @@
          "color":"blue",
          "price":69.99,
          "season":"new",
-         "category":"hiking",
+         "category":"Hiking",
          "image":"https://images.footlocker.com/is/image/FLEU/314214919004_01?wid=520&hei=520&fmt=png-alpha",
          "image-side":"https://images.footlocker.com/is/image/FLEU/314214919004_02?wid=500&hei=500&fmt=png-alpha",
          "image-behind":"https://images.footlocker.com/is/image/FLEU/314214919004_03?wid=500&hei=500&fmt=png-alpha"
@@ -174,7 +174,7 @@
          "color":"red",
          "price":219.99,
          "season":"upcoming",
-         "category":"hiking",
+         "category":"Hiking",
          "image":"https://images.footlocker.com/is/image/FLEU/314626044904_01?wid=520&hei=520&fmt=png-alpha",
          "image-side":"https://images.footlocker.com/is/image/FLEU/314626044904_02?wid=500&hei=500&fmt=png-alpha",
          "image-behind":"https://images.footlocker.com/is/image/FLEU/314626044904_03?wid=500&hei=500&fmt=png-alpha"
@@ -194,7 +194,7 @@
          "color":"black",
          "price":69.99,
          "season":"featured",
-         "category":"hiking",
+         "category":"Hiking",
          "image":"https://images.footlocker.com/is/image/FLEU/314625472304_01?wid=500&hei=500&fmt=png-alpha",
          "image-side":"https://images.footlocker.com/is/image/FLEU/314625472304_02?wid=500&hei=500&fmt=png-alpha",
          "image-behind":"https://images.footlocker.com/is/image/FLEU/314625472304_03?wid=500&hei=500&fmt=png-alpha"
